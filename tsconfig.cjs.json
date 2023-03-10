@@ -1,0 +1,21 @@
+{
+    "compilerOptions": {
+        "module": "ESNext",
+        "moduleResolution": "nodenext",
+        "target": "ES2022",
+        "jsx": "react",
+        "skipLibCheck": true,
+        "strictNullChecks": false,
+        "strict": false,
+        "strictFunctionTypes": false,
+        "allowJs": false,
+        "esModuleInterop": true,
+        "isolatedModules": false,
+        "experimentalDecorators": true,
+        "allowSyntheticDefaultImports": true,
+        "resolveJsonModule": true,
+        "lib": ["ES2022", "DOM"],
+        "outDir": "dist"
+    },
+    "exclude": ["node_modules"]
+}

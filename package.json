@@ -1,0 +1,28 @@
+{
+  "name": "weredok.ts",
+  "version": "1.0.1",
+  "description": "It's just an utils",
+  "main": "index.ts",
+  "type": "module",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Weredok/weredok.ts.git"
+  },
+  "author": "Weredok",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Weredok/weredok.ts/issues"
+  },
+  "homepage": "https://github.com/Weredok/weredok.ts#readme",
+  "dependencies": {
+    "@types/dotenv": "^8.2.0",
+    "dotenv": "^16.0.3",
+    "firebase": "^9.17.2"
+  }
+}
