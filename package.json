@@ -1,8 +1,8 @@
 {
   "name": "weredok.ts",
-  "version": "1.0.1",
+  "version": "1.0.3-dev",
   "description": "It's just an utils",
-  "main": "index.ts",
+  "main": "index.js",
   "type": "module",
   "directories": {
     "test": "tests"
