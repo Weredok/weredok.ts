@@ -1,8 +1,8 @@
 {
   "name": "weredok.ts",
-  "version": "1.0.3-dev",
-  "description": "It's just an utils",
-  "main": "index.js",
+  "version": "1.1.0",
+  "description": "It's just an utils for author this package.",
+  "main": "dist/index.js",
   "type": "module",
   "directories": {
     "test": "tests"
@@ -22,7 +22,6 @@
   "homepage": "https://github.com/Weredok/weredok.ts#readme",
   "dependencies": {
     "@types/dotenv": "^8.2.0",
-    "dotenv": "^16.0.3",
-    "firebase": "^9.17.2"
+    "dotenv": "^16.0.3"
   }
 }

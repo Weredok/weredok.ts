@@ -1,4 +1,10 @@
-export * from "./src/classes/Database.js";
-//export * from "./src/classes/Loader.js";
-export * from "./src/utils/duration.js";
-export * from "./src/utils/booleans.js";
+import { database } from "./src/Database.js";
+import { booleans, rebooleans } from "./src/booleans.js";
+import { duration } from "./src/duration.js";
+
+export {
+    database,
+    booleans,
+    rebooleans,
+    duration
+}
